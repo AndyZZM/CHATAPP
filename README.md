@@ -7,7 +7,7 @@ Github link: https://github.com/AndyZZM/CHATAPP.git
 
 RUN: 
 
-STEP1: UNZIP folder CHATAPP.zip
+STEP1: UNZIP folder ChatApp.zip
 
 STEP2: run  npm install
 
